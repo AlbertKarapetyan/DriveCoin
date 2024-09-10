@@ -1,0 +1,6 @@
+@DriveCoin_HostAddress = http://localhost:5139
+
+GET {{DriveCoin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
